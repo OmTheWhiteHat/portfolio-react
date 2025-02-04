@@ -21,4 +21,4 @@ Welcome to my React portfolio! This is a personal project built with React to sh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-portfolio.git
+   git clone https://github.com/OmTheWhiteHat/portfolio-react.git
